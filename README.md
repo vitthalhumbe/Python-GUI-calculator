@@ -15,13 +15,13 @@ This is a simple calculator application written in Python using the Tkinter libr
 ## Usage
 
 1. Enter the numbers and operations using the on-screen buttons.
-2. Press the "C" button to clear the input.
-3. Press "=" to evaluate the expression.
+2. Press the `C` button to clear the input.
+3. Press `=` to evaluate the expression.
 4. Additional functionalities:
     - `x^2`: Calculate the square of a number.
-    - "√x": Calculate the square root of a number.
-    - "(": Open a parenthesis.
-    - ")": Close a parenthesis.
+    - `√x`: Calculate the square root of a number.
+    - `(`: Open a parenthesis.
+    - `)`: Close a parenthesis.
 
 ## Author
 
